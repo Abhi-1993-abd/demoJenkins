@@ -5,7 +5,7 @@
   <classes>
   <class name="com.demoTest.demoTest"/>
   <class name="com.demo2Test.demo2Test"/>
-  <class name="com.demo3Test.demo2Test"/>
+  <class name="com.demo3Test.demo3Test"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
